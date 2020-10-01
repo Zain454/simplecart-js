@@ -77,7 +77,7 @@ Here is a more complex item with options and images:
 Please check out our documentation to see all of the options simpleCart has available!
 
 
-## Version 3 Documentation 
+## Version 3 Documentations 
 		 
 A work in progress..... I'm putting it here until we
 have the new site up so I can put it...well.. there. 
